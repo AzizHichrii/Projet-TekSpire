@@ -148,7 +148,7 @@ Deux modèles principaux sont intégrés :
 
 ## 👨‍💻 Auteur
 
-**Aziz Hichri**
+**Aziz Hichri et Ahmed Fridhi**
 Ingénieur logiciel – Génie Logiciel et Systèmes d’Information
 Passionné par le développement web, la data science et l’intelligence artificielle
 
